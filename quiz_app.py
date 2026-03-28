@@ -9,8 +9,8 @@ questions = [
     },
     {
         "question": "Which keyword defines a function in Python?",
-        "options": ["A. func", "B. def", "C. function", "D. define"],
-        "answer": "B"
+        "options": ["A. def", "B. function", "C. function", "D. define"],
+        "answer": "A"
     },
     {
         "question": "Which planet is known as the Red Planet?",
