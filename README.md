@@ -1,28 +1,14 @@
-Quiz Game 
+Quiz App 
+A simple and interactive quiz game built using Python.
 
-Description
-->An interactive command-line quiz game built using Python.
-Includes shuffled questions, a timer, and high score tracking.
+#Features
+-> Random questions
+-> Timer-based answering
+-> Score saving system
 
- Features
-Randomized questions
-Timer for each question
-High score saving system
-Instant feedback
+#How to Run
+1. Install Python
+2. Run: python quiz_app.py.txt
 
- Tech Used
-* Python (Core)
-* random, time modules
-
-Files
-* main.py → main logic
-* questions.py → questions list
-* scores.txt → stores high score
-
-Future Improvements
-* Add GUI version
-* Add difficulty levels
-* Add leaderboard
-
-Author
-Mithali Pattanaik
+#Tech Used
+- Python
